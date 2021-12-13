@@ -1,6 +1,6 @@
 # Bytes.co Alpine ncdu
 
-A no-frills Alpine ncdu container. Currently based on Alpine 3.13. Small and secure. Helpful when you run out of disk space.
+A no-frills Alpine ncdu container. Currently based on Alpine 3.15. Small and secure. Helpful when you run out of disk space.
 
 ## Example Usage
 ```bash
