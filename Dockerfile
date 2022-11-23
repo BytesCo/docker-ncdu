@@ -1,4 +1,4 @@
-FROM docker.io/library/alpine:3.16.3
+FROM docker.io/library/alpine:3.17.0
 
 LABEL maintainer="Aaron Silber <aaron@bytes.co>"
 
